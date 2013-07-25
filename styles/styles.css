@@ -1,0 +1,155 @@
+body {
+  background-image: url("../images/background.png");
+  text-align: center; /* Fixes IE 5.5 alignment bug */
+}    
+    
+div#overall {
+  padding: 0;
+  width: 750px;
+  background-color: #EEFFEE;
+  margin-top: 13px !important;
+  margin-top: 0;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left; /* Sets the text back to being left aligned after fixing IE 5.5 bug earlier */
+  border: 2px solid #000000;
+}    
+    
+div#header {
+  width: 750px;
+  height: 150px;
+  border-bottom: 1px solid #000000;
+}
+
+div#navigation {
+  width: 750px;
+  background-image: url("../images/navigation_background.png");
+  height: 30px;
+  border-bottom: 1px solid #000000;
+  margin-bottom: 0px !important;
+  margin-bottom: -3px;
+}
+
+ul {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  display: inline;
+}
+
+div#content_area {
+  width: 750px;
+  background-color: #EEFFEE;
+  color: #4A4B46;
+  font-family: Arial, Verdana, sans-serif;
+  font-size: 11pt;
+  font-weight: bold;
+  line-height: 15pt;
+}
+
+div#heading {
+  height: 100px;
+  margin-left: 0;
+  margin-bottom: -30px !important;
+  margin-bottom: -15px;
+}
+
+div#left_column {
+  width: 355px !important;
+  width: 353px;
+  float: left;
+  padding: 10px;
+}
+
+div#right_column {
+  width: 355px !important;
+  width: 353px;
+  margin-left: 375px !important;
+  margin-left: 374px;
+  padding: 10px;
+}
+
+strong {
+  color: #336633;
+  font-size: 13pt;
+}
+
+h2 {
+  text-transform: uppercase;
+  color: #336633;
+  font-size: 14pt;
+}
+
+div#sponsors {
+  clear: both;
+  width: 750px;
+  background-color: #FFFFFF;
+  text-align: center;
+  border-top: 1px solid #000000;  
+}
+
+div#footer {
+  width: 750px;
+  background-color: #EEFFEE;
+  text-align: center;
+  border-top: 1px solid #000000;
+  border-bottom: 1px solid #000000;
+}
+
+div#footer p {
+  font-size: 10pt;
+  margin-top: 10px;
+  margin-bottom: 10px !important;
+  margin-bottom: 0px;
+  height: 14px !important;
+  height: 25px;
+}
+
+img {
+  border: 0;
+  margin: 0;
+}
+
+a:link {
+  color: #417A1A;
+  text-decoration: none;
+}
+
+a:active {
+  color: #417A1A;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #417A1A;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #417A1A;
+  text-decoration: underline;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+    
+td.field_label {
+  text-align: right;
+  vertical-align: top;
+  padding: 5px;
+}
+    
+td.field_input {
+  text-align: left;
+  vertical-align: top;
+  padding: 5px;
+}
+
+p.form_submitted {
+  padding: 10px;
+}
