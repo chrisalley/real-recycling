@@ -1,0 +1,1 @@
+Source code and other assets in this repository are provided for demonstration purposes only. Copyright © 2005, Christchurch City Council, Waimakariri District Council, RMF, and Chris Alley.
