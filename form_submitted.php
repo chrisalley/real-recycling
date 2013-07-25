@@ -48,7 +48,7 @@
         <a href="http://www.ccc.govt.nz/recycling"><img src="images/rr.png" alt="Real Recycling" title="Real Recycling" width="150" height="75" /></a>
       </div>
       <div id="footer">
-        <p>Copyright &copy; 2005, <a href="http://www.ccc.govt.nz/recycling" title="Christchurch City Council">CCC</a>, <a href="http://www.waimakariri.govt.nz" title="Waimakariri District Council">WDC</a>, <a href="http://www.rmf.org.nz" title="Recovered Materials Foundation">RMF</a>, and <a href="mailto:solowingdragon@gmail.com?subject=Real Recycling" title="Send an email to Chris Alley">Chris Alley</a>.</p>        
+        <p>Copyright &copy; 2005, <a href="http://www.ccc.govt.nz/recycling" title="Christchurch City Council">CCC</a>, <a href="http://www.waimakariri.govt.nz" title="Waimakariri District Council">WDC</a>, <a href="http://www.rmf.org.nz" title="Recovered Materials Foundation">RMF</a>, and <a href="mailto:chris@chrisalley.info?subject=Real Recycling" title="Send an email to Chris Alley">Chris Alley</a>.</p>        
       </div>
     </div>
   </body>
